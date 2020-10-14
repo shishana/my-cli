@@ -1,0 +1,177 @@
+{
+  "id": "1746866",
+  "name": "法规对比",
+  "font_family": "iconfont",
+  "css_prefix_text": "law-icon",
+  "description": "法规对比",
+  "glyphs": [
+    {
+      "icon_id": "16424388",
+      "name": "编组备份 2",
+      "font_class": "fankuishenhe-xuanzhong",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "16424389",
+      "name": "反馈审核-未选中",
+      "font_class": "fankuishenhe-weixuanzhong",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "16424390",
+      "name": "反馈审核（亮色）-未选中",
+      "font_class": "fankuishenhe-weixuanzhong-dark",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "16424391",
+      "name": "反馈审核（亮色）",
+      "font_class": "fankuishenhe-xuanzhong-dark",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "14393352",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "14393353",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "14670201",
+      "name": "关联",
+      "font_class": "guanlian-dark",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "14270684",
+      "name": "关联",
+      "font_class": "guanlian",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "14670437",
+      "name": "新法速递-选中",
+      "font_class": "xinfasudi-xuanzhong-dark",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "14670442",
+      "name": "政策咨询-选中",
+      "font_class": "zhengcezixun-xuanzhong-dark",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "14670312",
+      "name": "新法速递-未选中",
+      "font_class": "xinfasudi-weixuanzhong-dark",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "14670333",
+      "name": "合规性对比-未选中",
+      "font_class": "heguixingduibi-weixuanzhong-dark",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "14670336",
+      "name": "政策咨询-未选中",
+      "font_class": "zhengcezixun-weixuanzhong-dark",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "14670341",
+      "name": "法规对比-选中",
+      "font_class": "faguiduibi-xuanzhong-dark",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "14670344",
+      "name": "合规性对比-选中",
+      "font_class": "heguixingduibi-xuanzhong-dark",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "14270560",
+      "name": "法规对比-未选中",
+      "font_class": "faguiduibi-weixuanzhong",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "14270561",
+      "name": "法规对比-选中",
+      "font_class": "faguiduibi-xuanzhong",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "14270562",
+      "name": "合规性对比-选中",
+      "font_class": "heguixingduibi-xuanzhong",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "14270563",
+      "name": "新法速递-未选中",
+      "font_class": "xinfasudi-weixuanzhong",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "14270564",
+      "name": "合规性对比-未选中",
+      "font_class": "heguixingduibi-weixuanzhong",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "14270565",
+      "name": "新法速递-选中",
+      "font_class": "xinfasudi-xuanzhong",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "14270566",
+      "name": "政策咨询-选中",
+      "font_class": "zhengcezixun-xuanzhong",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "14270567",
+      "name": "政策咨询-未选中",
+      "font_class": "zhengcezixun-weixuanzhong",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "14670303",
+      "name": "法规对比-未选中",
+      "font_class": "faguiduibi-weixuanzhong-dark",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    }
+  ]
+}
